@@ -21,10 +21,10 @@ dependencies:
   - sqlite=3.41.2
   - tk=8.6.12
   - tzdata=2023c
-  - vc=14.2
-  - vs2015_runtime=14.27.29016
+#  - vc=14.2
+#  - vs2015_runtime=14.27.29016
   - wheel=0.37.1
-  - wincertstore=0.2
+#  - wincertstore=0.2
   - xz=5.2.10
   - zlib=1.2.13
 prefix: C:\art\github\butterfly_viewer\env
